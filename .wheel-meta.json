@@ -1,0 +1,22 @@
+{
+  "wheel_id": 727,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-107",
+  "project": "retaining-wall-builders-toowoomba-how-to-choose-1c636ad3b1bcdc1",
+  "parent_t1_ref": "retainingwallstoowoomba-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall builders toowoomba how to choose",
+  "intended_url": "https://sitesau.github.io/retainingwallstoowoomba-107/",
+  "tier": "T2",
+  "writeback_nonce": "2b32136ae0cf4b5d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-toowoomba-671ece2b81b4a909d7160570410e4/",
+      "anchor": "the retaining wall builders toowoomba overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
